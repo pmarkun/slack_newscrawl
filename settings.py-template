@@ -1,0 +1,6 @@
+SETTINGS = {
+  'newsapi' : 'NEWSAPI',
+  'channel' : 'SLACK CHANNEL',
+  'token' : 'SLACK TOKEN',
+  'keywords' : ['NEWS KEYWORDS']
+}
